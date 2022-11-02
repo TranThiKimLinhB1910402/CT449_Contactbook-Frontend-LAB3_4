@@ -52,9 +52,6 @@ export default {
         InputSearch,
         ContactList,
     },
-
-
-
     data() {
         return {
             contacts: [],
